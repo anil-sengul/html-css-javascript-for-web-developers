@@ -24,10 +24,6 @@ body {
   text-decoration: none;
 }
 
-.nav-item {
-  text-align: center;
-}
-
 .navbar-header button.navbar-toggle,
 .navbar-header .icon-bar {
   border: 1px solid black;
